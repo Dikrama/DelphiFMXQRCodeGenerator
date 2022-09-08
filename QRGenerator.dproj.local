@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2022/09/08 22:19:32.403,=C:\Users\cvv\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2022/09/08 22:21:30.729,F:\Project\QR Code Generator\uMain.pas=C:\Users\cvv\Documents\Embarcadero\Studio\Projects\Unit8.pas</Transaction>
+    <Transaction>2022/09/08 22:21:30.729,F:\Project\QR Code Generator\uMain.fmx=C:\Users\cvv\Documents\Embarcadero\Studio\Projects\Unit8.fmx</Transaction>
+    <Transaction>2022/09/08 22:21:42.807,F:\Project\QR Code Generator\QRGenerator.dproj=C:\Users\cvv\Documents\Embarcadero\Studio\Projects\Project6.dproj</Transaction>
+  </Transactions>
+  <ActiveMobileDevice>   <NoProfile iOSSimulator="iPhone5"/>
+  </ActiveMobileDevice>
+</BorlandProject>
