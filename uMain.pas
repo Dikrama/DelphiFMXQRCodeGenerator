@@ -1,3 +1,8 @@
+{Contributor : Didi Kurniadi 
+Email : chemuter@gmail.com
+Use this API : https://api.qrserver.com
+}
+
 unit uMain;
 
 interface
